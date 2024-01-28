@@ -1,5 +1,4 @@
 package com.mfy98.flightsearchapi;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -10,4 +9,7 @@ public class FlightSearchApiApplication {
 		SpringApplication.run(FlightSearchApiApplication.class, args);
 	}
 
+
+
 }
+
